@@ -198,41 +198,43 @@ const content = {
       ),
       cards: {
         card1: {
-          title: <>Já tentei algo parecido e não funcionou</>,
+          title: <>Ela serve para fazer anúncios no Google Ads?</>,
           paragraph: (
             <>
-              Isso acontece quando o problema não é a advocacia, mas a ausência
-              de estratégia. Landing page genérica, sem posicionamento e sem
-              foco em conversão não gera resultado.
+              Serve, e é exatamente para isso que ela é criada. A landing page
+              organiza a informação, prepara o visitante e aumenta muito a
+              chance de quem clica realmente entrar em contato.
             </>
           ),
         },
         card2: {
-          title: <>Tenho receio das regras da OAB</>,
+          title: (
+            <>Quero captar clientes, preciso de um site ou landing page?</>
+          ),
           paragraph: (
             <>
-              Toda a estrutura é pensada dentro dos limites éticos. Linguagem
-              informativa, posicionamento profissional e foco em orientação
-              jurídica, sem promessas ou sensacionalismo.
+              Se o objetivo é captação, a landing page é o caminho mais direto.
+              Ela é focada em um serviço, uma dor e uma ação. O site
+              institucional pode vir depois.
             </>
           ),
         },
         card3: {
-          title: <>Não sei se uma landing page funciona para a minha área</>,
+          title: <>Pra que serve uma landing page?</>,
           paragraph: (
             <>
-              Funciona quando existe clareza de público, dor bem definida e
-              comunicação correta. Não depende de fama, depende de estrutura.
+              Para apresentar seu serviço com clareza, orientar o visitante e
+              filtrar curiosos. Quem entra entende se o seu escritório é ou não
+              o que ele procura.
             </>
           ),
         },
         card4: {
-          title: <>Não quero investir sem ter clareza</>,
+          title: <>Demora muito pra ficar pronta?</>,
           paragraph: (
             <>
-              Antes de qualquer desenvolvimento, analisamos sua área de atuação,
-              público e objetivo. Se não fizer sentido, a recomendação é não
-              avançar.
+              Não. Após coletarmos todas as informações necessárias, a landing
+              page é entregue em até 5 dias úteis.
             </>
           ),
         },
@@ -678,43 +680,43 @@ const content = {
       subtitle: <>Confira as perguntas abaixo para esclarecer suas dúvidas.</>,
       questions: {
         question1: {
-          question: <>Ela serve para fazer anúncios no Google Ads.</>,
+          question: <>Preciso fornecer conteúdo ou vocês criam tudo?</>,
           answer: (
             <>
-              Serve, e é exatamente para isso que ela é criada. A landing page
-              organiza a informação, prepara o visitante e aumenta muito a
-              chance de quem clica realmente entrar em contato.
+              Você pode enviar o conteúdo ou deixar com a gente. Criamos textos,
+              imagens e estrutura pensando em atrair clientes para sua área de
+              atuação.
             </>
           ),
         },
         question2: {
-          question: (
-            <>Quero captar clientes, preciso de um site ou landing page?</>
-          ),
+          question: <>Minha landing page vai aparecer no Google?</>,
           answer: (
             <>
-              Se o objetivo é captação, a landing page é o caminho mais direto.
-              Ela é focada em um serviço, uma dor e uma ação. O site
-              institucional pode vir depois.
+              Com certeza. Todas as páginas criadas pela Paper Street são
+              otimizadas para SEO, aumentando sua visibilidade e ajudando
+              clientes em potencial a encontrarem seu escritório online.
             </>
           ),
         },
         question3: {
-          question: <>Pra que serve uma landing page?</>,
+          question: (
+            <>Vocês oferecem suporte depois que a landing page está ativa?</>
+          ),
           answer: (
             <>
-              Para apresentar seu serviço com clareza, orientar o visitante e
-              filtrar curiosos. Quem entra entende se o seu escritório é ou não
-              o que ele procura.
+              Claro! Estamos disponíveis para tirar dúvidas, corrigir problemas
+              e garantir que sua página continue funcionando perfeitamente.
             </>
           ),
         },
         question4: {
-          question: <>Demora muito pra ficar pronta?</>,
+          question: <>Minha landing page já vem integrada com WhatsApp?</>,
           answer: (
             <>
-              Não. Após coletarmos todas as informações necessárias, a landing
-              page é entregue em até 5 dias úteis.
+              Sim! Todas as nossas landing pages já vêm prontas para receber
+              mensagens pelo WhatsApp, facilitando o contato direto de clientes
+              com seu escritório.
             </>
           ),
         },
