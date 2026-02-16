@@ -249,7 +249,7 @@ const content = {
       miniTag: <>DESENVOLVIMENTO WEB PARA ADVOGADOS</>,
       FirstPart: <span>Conseguir</span>,
       Destaque: <span className="italic font-light">clientes</span>,
-      SecondPart: <span>na advocacia não deveria depender da sorte.</span>,
+      SecondPart: <span>na advocacia não deveria depender da sorte</span>,
       subtitle: (
         <>Sem estrutura digital, seu escritório perde clientes todos os dias.</>
       ),
@@ -383,7 +383,7 @@ const content = {
     },
     cardsSection: {
       miniTag: <>SE NADA MUDAR, O CENÁRIO É ESTE</>,
-      title: <>A instabilidade de hoje vira estagnação amanhã.</>,
+      title: <>A instabilidade de hoje vira estagnação amanhã</>,
       subtitle: (
         <>
           No mercado jurídico atual, depender apenas de indicações e ações
@@ -496,7 +496,7 @@ const content = {
       miniTag: <>PRÓXIMO PASSO</>,
       title: (
         <h1>
-          Descubra se uma landing page é o caminho certo para o seu escritório.
+          Descubra se uma landing page é o caminho certo para o seu escritório
         </h1>
       ),
       subtitle: (
@@ -623,7 +623,7 @@ const content = {
     },
     authority: {
       miniTag: <>POR QUE CONFIAR NA PAPER STREET</>,
-      title: <>Landing pages jurídicas, com método.</>,
+      title: <>Landing pages jurídicas, com método</>,
       subtitle: (
         <>
           Somos uma empresa focada na criação de landing pages para advogados
