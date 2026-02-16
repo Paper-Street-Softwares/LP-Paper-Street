@@ -129,12 +129,11 @@ const content = {
       menuItems: [
         "Início",
         "Serviços",
-        "Sobre",
         "Perguntas",
         // 'Blog',
         // 'Mapa',
       ],
-      menuId: ["home", "feature", "about", "faq"],
+      menuId: ["home", "feature", "faq"],
       ariaLabel: "Botão de Contato",
       ctaButtonText: "Contato",
       ctaButtonTextResponsive: "Contato",
