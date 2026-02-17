@@ -187,7 +187,7 @@ const content = {
       ),
     },
     important: {
-      miniTag: <>Não precisa se preocupar</>,
+      miniTag: <>DÚVIDAS COMUNS</>,
       title: (
         <>
           As principais dúvidas dos advogados antes de investir em uma landing
