@@ -152,7 +152,7 @@ function HeroTemplateNovo({
                   {/* <BriefcaseBusiness className="w-4 h-4" /> */}
                   {/* <MapPin className="w-4 h-4" /> */}
                   {/* 🚨 */}
-                  <ChartNoAxesCombined className="w-4 h-4" />
+                  <Scale className="w-4 h-4" />
                 </span>
                 {content.texts.hero.miniTag}
               </div>

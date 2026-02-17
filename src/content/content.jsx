@@ -140,16 +140,20 @@ const content = {
     },
     hero: {
       miniTag: <>LANDING PAGES PARA ADVOGADOS</>,
-      FirstPart: <span>Landing pages jurídicas para</span>,
+      FirstPart: <span>Landing pages testadas e validadas para</span>,
       Destaque: (
-        <span className="destaque relative italic font-light">captar</span>
+        <span className="destaque relative italic font-light">
+          captar clientes
+        </span>
       ),
-      SecondPart: <span>clientes</span>,
+      SecondPart: <span></span>,
       subtitle: (
         <p>
-          Criamos <strong className="text-primaryLight">landing pages</strong>{" "}
-          estratégicas para advogados que querem atrair clientes todos os dias
-          pela internet, com previsibilidade e profissionalismo.
+          Estamos há anos criando landing pages profissionais{" "}
+          <strong className="text-primaryLight">
+            para advogados que querem anunciar e atrair clientes
+          </strong>{" "}
+          todos os dias pela internet, com previsibilidade e profissionalismo.
         </p>
       ),
       heroDefaultImage: heroDefaultImg, // img da pessoa mobile
@@ -158,16 +162,16 @@ const content = {
       alt: "Imagem ilustrativa da Seção Início",
       ctaButtonAriaLabel:
         "Botão para chamada de ação para contato pelo whatsapp",
-      ctaButtonText: <>Quero ter mais clientes</>,
+      ctaButtonText: <>Solicitar Orçamento Gratuito</>,
       ctaButtonTextSecondary: <>A_Definir</>,
       obsHero: {
         icon: <LucideIdCard />,
         iconTwo: <LucideIdCard />,
         text: (
-          <>
-            Especialistas em páginas que transformam visitantes em consultas
-            agendadas.
-          </>
+          <strong className="text-primaryLight">
+            Especialistas em páginas focadas em levar o cliente para o seu
+            WhatsApp.
+          </strong>
         ),
         textTwo: <>A_Definir</>,
       },
@@ -183,7 +187,7 @@ const content = {
       ),
     },
     important: {
-      miniTag: <>DÚVIDAS E OBJEÇÕES COMUNS</>,
+      miniTag: <>Não precisa se preocupar</>,
       title: (
         <>
           As principais dúvidas dos advogados antes de investir em uma landing
