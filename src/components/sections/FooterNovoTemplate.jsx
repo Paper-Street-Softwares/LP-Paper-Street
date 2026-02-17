@@ -93,7 +93,7 @@ function FooterNovoTemplate({
                     alt={content.texts.navbar.logo.alt}
                     className="w-[50%]"
                     width={277}
-                    height={60}
+                    height={49}
                   />
                 </a>
 
