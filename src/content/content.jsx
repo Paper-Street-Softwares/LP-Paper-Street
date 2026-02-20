@@ -64,8 +64,8 @@ export const infos = {
   domain: "paperstreet.com.br", // Sem "www"
   phone: {
     ddd: "11",
-    firstPart: "99026", // Apenas os 5 primeiros números (incluindo o 9)
-    secondPart: "0977", // Apenas os 4 últimos números
+    firstPart: "98821", // Apenas os 5 primeiros números (incluindo o 9)
+    secondPart: "7850", // Apenas os 4 últimos números
   },
   phoneSecundario: {
     ddd: "00",
