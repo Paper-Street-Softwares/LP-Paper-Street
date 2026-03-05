@@ -15,6 +15,12 @@ import imgSteps from "../assets/imgs/steps/imgSteps.webp";
 // import logo2 from '../assets/imgs/parceria/Logo2.webp'
 // import logo3 from '../assets/imgs/parceria/Logo3.webp'
 
+import feed1 from "../assets/imgs/socialProof/socialproof1.webp";
+import feed2 from "../assets/imgs/socialproof/socialproof2.webp";
+import feed3 from "../assets/imgs/socialproof/socialproof3.webp";
+import feed4 from "../assets/imgs/socialproof/socialproof4.webp";
+import feed5 from "../assets/imgs/socialproof/socialproof5.webp";
+
 import {
   Baby,
   Briefcase,
@@ -176,6 +182,20 @@ const content = {
         textTwo: <>A_Definir</>,
       },
       secondaryCta: "Contato",
+    },
+    socialProof: {
+      minitag: "Avaliações Verificadas",
+      title: "A experiência de quem já contratou a Paper Street",
+      subtitle:
+        "Advogados que buscavam organização, posicionamento e crescimento encontraram na Paper Street a solução que precisavam.",
+      ctaButtonText: "Falar com a equipe agora",
+      images: {
+        img1: feed1,
+        img2: feed2,
+        img3: feed3,
+        img4: feed4,
+        img4: feed5,
+      },
     },
     emergency: {
       miniTag: <>A_Definir</>,
