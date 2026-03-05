@@ -60,15 +60,15 @@ function SocialProof({ colorMode }) {
       bgContainer = "bg-white";
       text = "text-corTitulosPreto";
       textOpacity = "text-corOutrosTextosPreto";
-      bgSection = "bg-white";
+      bgSection = "bg-transparent";
       bgButton = "bg-black/25";
       break;
 
     case "dark":
-      bgContainer = "bg-darkOpacity";
+      bgContainer = "bg-black";
       text = "text-corTitulosBranca";
       textOpacity = "text-corOutrosTextosBranca";
-      bgSection = "bg-black";
+      bgSection = "bg-transparent";
       bgButton = "bg-white/25";
       break;
 
@@ -76,7 +76,7 @@ function SocialProof({ colorMode }) {
       bgContainer = "bg-white";
       text = "text-corTitulosPreto";
       textOpacity = "text-corOutrosTextosPreto";
-      bgSection = "bg-white";
+      bgSection = "bg-transparent";
       bgButton = "bg-black/25";
       break;
 
@@ -84,7 +84,7 @@ function SocialProof({ colorMode }) {
       bgContainer = "bg-white";
       text = "text-corTitulosPreto";
       textOpacity = "text-corOutrosTextosPreto";
-      bgSection = "bg-black";
+      bgSection = "bg-transparent";
       bgButton = "bg-black/25";
   }
 
