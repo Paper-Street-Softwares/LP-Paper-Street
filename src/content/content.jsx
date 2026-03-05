@@ -15,12 +15,12 @@ import imgSteps from "../assets/imgs/steps/imgSteps.webp";
 // import logo2 from '../assets/imgs/parceria/Logo2.webp'
 // import logo3 from '../assets/imgs/parceria/Logo3.webp'
 
-import feed1 from "../assets/imgs/socialProof/socialproof1.webp";
-import feed2 from "../assets/imgs/socialproof/socialproof2.webp";
-import feed3 from "../assets/imgs/socialproof/socialproof3.webp";
-import feed4 from "../assets/imgs/socialproof/socialproof4.webp";
-import feed5 from "../assets/imgs/socialproof/socialproof5.webp";
-import feed6 from "../assets/imgs/socialproof/socialproof6.webp";
+import feed1 from "../assets/imgs/socialProof/feed1.webp";
+import feed2 from "../assets/imgs/socialproof/feed2.webp";
+import feed3 from "../assets/imgs/socialproof/feed3.webp";
+import feed4 from "../assets/imgs/socialproof/feed4.webp";
+import feed5 from "../assets/imgs/socialproof/feed5.webp";
+import feed6 from "../assets/imgs/socialproof/feed6.webp";
 
 import {
   Baby,
