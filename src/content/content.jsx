@@ -16,7 +16,7 @@ import imgSteps from "../assets/imgs/steps/imgSteps.webp";
 // import logo3 from '../assets/imgs/parceria/Logo3.webp'
 
 import feed1 from "../assets/imgs/socialProof/social1.webp";
-// import feed2 from "../assets/imgs/socialproof/social2.webp";
+import feed2 from "../assets/imgs/socialproof/social2.webp";
 // import feed3 from "../assets/imgs/socialproof/social3.webp";
 // import feed4 from "../assets/imgs/socialproof/social4.webp";
 // import feed5 from "../assets/imgs/socialproof/social5.webp";
@@ -192,7 +192,7 @@ const content = {
       ctaButtonText: "Falar com a equipe agora",
       images: {
         img1: feed1,
-        // img2: feed2,
+        img2: feed2,
         // img3: feed3,
         // img4: feed4,
         // img5: feed5,
