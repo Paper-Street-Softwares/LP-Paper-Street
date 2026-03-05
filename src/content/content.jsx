@@ -20,6 +20,7 @@ import feed2 from "../assets/imgs/socialproof/socialproof2.webp";
 import feed3 from "../assets/imgs/socialproof/socialproof3.webp";
 import feed4 from "../assets/imgs/socialproof/socialproof4.webp";
 import feed5 from "../assets/imgs/socialproof/socialproof5.webp";
+import feed6 from "../assets/imgs/socialproof/socialproof6.webp";
 
 import {
   Baby,
@@ -195,6 +196,7 @@ const content = {
         img3: feed3,
         img4: feed4,
         img5: feed5,
+        img6: feed6,
       },
     },
     emergency: {
