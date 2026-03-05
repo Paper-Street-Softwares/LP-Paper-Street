@@ -57,9 +57,9 @@ export default function Index() {
             <HeroTemplateNovo colorMode={colorMode} obs={true} obsTwo={false} />
           </AlternatingSection>
 
-          <AlternatingSection index={1} colorMode={colorMode}>
+          {/* <AlternatingSection index={1} colorMode={colorMode}>
             <SocialProof colorMode={colorMode} />
-          </AlternatingSection>
+          </AlternatingSection> */}
 
           {/* <AlternatingSection index={1} colorMode={colorMode}>
             <Emergency colorMode={colorMode} />

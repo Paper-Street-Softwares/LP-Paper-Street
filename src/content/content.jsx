@@ -15,12 +15,12 @@ import imgSteps from "../assets/imgs/steps/imgSteps.webp";
 // import logo2 from '../assets/imgs/parceria/Logo2.webp'
 // import logo3 from '../assets/imgs/parceria/Logo3.webp'
 
-import feed1 from "../assets/imgs/socialProof/feed1.webp";
-import feed2 from "../assets/imgs/socialproof/feed2.webp";
-import feed3 from "../assets/imgs/socialproof/feed3.webp";
-import feed4 from "../assets/imgs/socialproof/feed4.webp";
-import feed5 from "../assets/imgs/socialproof/feed5.webp";
-import feed6 from "../assets/imgs/socialproof/feed6.webp";
+// import feed1 from "../assets/imgs/socialProof/feed1.webp";
+// import feed2 from "../assets/imgs/socialproof/feed2.webp";
+// import feed3 from "../assets/imgs/socialproof/feed3.webp";
+// import feed4 from "../assets/imgs/socialproof/feed4.webp";
+// import feed5 from "../assets/imgs/socialproof/feed5.webp";
+// import feed6 from "../assets/imgs/socialproof/feed6.webp";
 
 import {
   Baby,
@@ -184,21 +184,21 @@ const content = {
       },
       secondaryCta: "Contato",
     },
-    socialProof: {
-      minitag: "Avaliações Verificadas",
-      title: "A experiência de quem já contratou a Paper Street",
-      subtitle:
-        "Advogados que buscavam organização, posicionamento e crescimento encontraram na Paper Street a solução que precisavam.",
-      ctaButtonText: "Falar com a equipe agora",
-      images: {
-        img1: feed1,
-        img2: feed2,
-        img3: feed3,
-        img4: feed4,
-        img5: feed5,
-        img6: feed6,
-      },
-    },
+    // socialProof: {
+    //   minitag: "Avaliações Verificadas",
+    //   title: "A experiência de quem já contratou a Paper Street",
+    //   subtitle:
+    //     "Advogados que buscavam organização, posicionamento e crescimento encontraram na Paper Street a solução que precisavam.",
+    //   ctaButtonText: "Falar com a equipe agora",
+    //   images: {
+    //     img1: feed1,
+    //     img2: feed2,
+    //     img3: feed3,
+    //     img4: feed4,
+    //     img5: feed5,
+    //     img6: feed6,
+    //   },
+    // },
     emergency: {
       miniTag: <>A_Definir</>,
       title: <h1>A_Definir</h1>,
