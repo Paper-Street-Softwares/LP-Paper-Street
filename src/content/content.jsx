@@ -150,7 +150,7 @@ const content = {
       miniTag: <>LANDING PAGES PARA ADVOGADOS</>,
       FirstPart: <span>Advogado, receba clientes no seu Whatsapp </span>,
       Destaque: (
-        <span className="destaque relative italic font-light">
+        <span className="relative italic font-light destaque">
           todos os dias
         </span>
       ),
@@ -177,8 +177,7 @@ const content = {
         iconTwo: <LucideIdCard />,
         text: (
           <strong className="text-primaryLight">
-            Especialistas em páginas focadas em levar o cliente para o seu
-            WhatsApp.
+            Especialistas em Landing Pages Jurídicas de Alta Conversão
           </strong>
         ),
         textTwo: <>A_Definir</>,
