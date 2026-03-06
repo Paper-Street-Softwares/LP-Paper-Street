@@ -21,6 +21,7 @@ import feed3 from "../assets/imgs/socialProof/social3.webp";
 import feed4 from "../assets/imgs/socialProof/social4.webp";
 import feed5 from "../assets/imgs/socialProof/social5.webp";
 import feed6 from "../assets/imgs/socialProof/social6.webp";
+import feed7 from "../assets/imgs/socialProof/social7.webp";
 
 import {
   Baby,
@@ -147,13 +148,13 @@ const content = {
     },
     hero: {
       miniTag: <>LANDING PAGES PARA ADVOGADOS</>,
-      FirstPart: <span>Landing pages testadas e validadas para</span>,
+      FirstPart: <span>Advogado, receba clientes no seu Whatsapp </span>,
       Destaque: (
         <span className="destaque relative italic font-light">
-          captar clientes
+          todos os dias
         </span>
       ),
-      SecondPart: <span></span>,
+      SecondPart: <span>com nossas páginas</span>,
       subtitle: (
         <p>
           Estamos há anos criando landing pages profissionais{" "}
@@ -197,6 +198,7 @@ const content = {
         img4: feed4,
         img5: feed5,
         img6: feed6,
+        img7: feed7,
       },
     },
     emergency: {
